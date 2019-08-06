@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/gorilla/mux"
-	"github.com/opentracing-contrib/go-gorilla/gorilla"
+	"github.com/cgilmour/go-modules/go-gorilla/gorilla"
 	"github.com/uber/jaeger-client-go/config"
 )
 
